@@ -3,6 +3,7 @@ namespace DesafioProjetoHospedagem.Models
     public class Suite
     {
         public Suite() { }
+        // Classe construtora
 
         public Suite(string tipoSuite, int capacidade, decimal valorDiaria)
         {
